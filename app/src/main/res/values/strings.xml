@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TouchFace</string>
+    <string name="title_activity_test">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="money1000">1000</string>
+    <string name="smoke_tm_inbox_ru">smoke.tm@inbox.ru</string>
+    <string name="money">монеток</string>
+    <string name="subscribers1000">1000</string>
+    <string name="subscribers">подписчиков</string>
+    <string name="info">О себе:</string>
+    <string name="java_developer"><![CDATA[>_< Java developer]]></string>
+    <string name="profile">Профиль</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="MAIN">Главная</string>
+    <string name="OBZOR">Обзор</string>
+    <string name="MESSAGE">Сообщения</string>
+    <string name="PROFILE">Профиль</string>
+    <string name="MainFont">Roboto</string>
+    <string name="status">Статус</string>
+    <string name="smk_xyzz">smk.xyzz</string>
+</resources>

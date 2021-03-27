@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872394014186",
+    "firebase_url": "https://touchface-44a89.firebaseio.com",
+    "project_id": "touchface-44a89",
+    "storage_bucket": "touchface-44a89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872394014186:android:bf3ea50db9379869798693",
+        "android_client_info": {
+          "package_name": "com.codex.touchface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872394014186-2bila08ck7dbt4luucthp3jeockbljbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codex.touchface",
+            "certificate_hash": "fbcbaadb375f3c2f76cbb519370bb47e38313d6d"
+          }
+        },
+        {
+          "client_id": "872394014186-nodlik4tfqhprqpa506ndpk34nd8srs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7S6KM5Jal5TRzeFcirnu47yzVd8sMt4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872394014186-nodlik4tfqhprqpa506ndpk34nd8srs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

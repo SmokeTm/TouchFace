@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5d00</color>
+    <color name="colorPrimaryDark">#471607</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorSuccess">#4CAF50</color>
+    <color name="colorWarning">#FFC107</color>
+    <color name="colorDanger">#D50000</color>
+    <item name="defaultBackgroundView" type="id" />
+</resources>
