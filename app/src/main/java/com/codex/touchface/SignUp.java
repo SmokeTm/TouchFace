@@ -59,7 +59,7 @@ public class SignUp extends AppCompatActivity {
         final String email = edEmail.getEditText().getText().toString();
         final String password = edPassword.getEditText().getText().toString();
         final String ban_reason = "test";
-        final String status = "Статус пользователя";
+        final String status = "Напишите тут что-нибудь";
         final String ava_url = "pusto";
         final int money = 0;
         final int friends = 0;

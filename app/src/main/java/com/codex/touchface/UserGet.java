@@ -16,6 +16,8 @@ public class UserGet {
     public int ban;
     public int network_lvl;
     public int background;
+    public int lvl;
+    public int lr;
 
     public UserGet() {
     }
@@ -78,5 +80,13 @@ public class UserGet {
     }
     public int getBackground(){
         return background;
+    }
+
+    public int getLvl() {
+        return lvl;
+    }
+
+    public int getLr() {
+        return lr;
     }
 }
